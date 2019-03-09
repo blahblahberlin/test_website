@@ -1,0 +1,80 @@
+body{
+	font-family: 'Raleway', san-serif;
+	text-align: center;
+	margin: 0;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: #F7931E;
+  font-weight: extra-bold;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #F89D13;
+  font-size: 50px;
+}
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-size: 60px;
+
+
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/g/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 2px orange;
+}
+
+#footer{
+  padding: 30px;
+  margin: 20px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  background-color: #ffba5a;
+  border: 0px;
+}
+
+.map{
+	margin: 20px;
+	border-radius: 10px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
+
+.fab{
+	font-size: 20px;
+}
+#image1{
+	background-image: url("images/fernsehturm.jpg");
+	padding: 300px 100px;
+	background-size: cover;
+
+}
